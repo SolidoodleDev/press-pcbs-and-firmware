@@ -1,0 +1,33 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+D14        CR3216-1206_LED    359.818mil   1635.572mil    359.819mil   1635.573mil    383.243mil    1585.68mil  T        115.15 LTW-150TK      
+R14        CC2012-0805        453.721mil   1440.457mil    453.721mil   1440.458mil    469.616mil   1406.601mil  T        115.15 ERJ-6GEYJ101V  
+R13        CC2012-0805        294.401mil   1311.076mil    294.401mil   1311.076mil     323.57mil   1287.665mil  T        141.25 ERJ-6GEYJ101V  
+R12        CC2012-0805        203.408mil   1126.897mil    203.409mil   1126.897mil    239.844mil   1118.452mil  T        166.95 ERJ-6GEYJ101V  
+R11        CC2012-0805        203.229mil    921.134mil    203.229mil    921.134mil    239.694mil    929.452mil  T        192.85 ERJ-6GEYJ101V  
+R10        CC2012-0805        292.298mil    735.648mil    292.298mil    735.648mil    321.549mil    758.957mil  T        218.55 ERJ-6GEYJ101V  
+R9         CC2012-0805        452.994mil    607.137mil    452.994mil    607.137mil    469.331mil    640.781mil  T        244.10 ERJ-6GEYJ101V  
+R8         CC2012-0805        653.524mil    561.025mil    653.523mil    561.025mil    653.621mil    598.426mil  T        269.85 ERJ-6GEYJ101V  
+R7         CC2012-0805        854.941mil    606.786mil     854.94mil    606.786mil    838.809mil     640.53mil  T        295.55 ERJ-6GEYJ101V  
+R6         CC2012-0805        1015.86mil    735.017mil    1015.86mil    735.017mil    986.691mil    758.428mil  T        321.25 ERJ-6GEYJ101V  
+R5         CC2012-0805       1105.253mil    920.348mil   1105.253mil    920.347mil   1068.817mil    928.793mil  T        346.95 ERJ-6GEYJ101V  
+R4         CC2012-0805       1105.432mil    1126.11mil   1105.432mil    1126.11mil   1068.967mil   1117.792mil  T         12.85 ERJ-6GEYJ101V  
+R3         CC2012-0805       1016.364mil   1311.596mil   1016.363mil   1311.596mil    987.113mil   1288.287mil  T         38.55 ERJ-6GEYJ101V  
+R2         CC2012-0805        855.668mil   1440.108mil    855.668mil   1440.107mil    839.419mil    1406.42mil  T         64.25 ERJ-6GEYJ101V  
+R1         CC2012-0805        654.331mil    1486.22mil    654.331mil    1486.22mil    654.331mil   1448.818mil  T         90.00 ERJ-6GEYJ101V  
+P1         MOLEX_15-91-3034    654.331mil   2221.587mil    654.331mil   2011.087mil    554.331mil   2011.087mil  T          0.00 Molex 15-91-3034
+D13        CR3216-1206_LED    126.742mil   1444.975mil    126.742mil   1444.975mil    169.727mil   1410.476mil  T        141.25 LTW-150TK      
+D12        CR3216-1206_LED     -7.661mil   1175.238mil     -7.661mil   1175.238mil     46.034mil   1162.792mil  T        166.95 LTW-150TK      
+D11        CR3216-1206_LED     -7.925mil    873.161mil     -7.925mil    873.161mil     45.813mil     885.42mil  T        192.85 LTW-150TK      
+D10        CR3216-1206_LED    122.836mil    600.852mil    122.836mil    600.852mil    165.942mil    635.202mil  T        218.55 LTW-150TK      
+D9         CR3216-1206_LED    358.751mil    412.186mil    358.751mil    412.186mil    382.827mil    461.768mil  T        244.10 LTW-150TK      
+D8         CR3216-1206_LED    654.331mil     344.49mil    654.331mil     344.49mil    654.475mil    399.608mil  T        269.85 LTW-150TK      
+D7         CR3216-1206_LED    948.842mil    411.671mil    948.843mil    411.671mil     925.07mil    461.399mil  T        295.55 LTW-150TK      
+D6         CR3216-1206_LED   1185.087mil    599.925mil   1185.087mil    599.925mil   1142.101mil    634.425mil  T        321.25 LTW-150TK      
+D5         CR3216-1206_LED   1316.323mil    872.006mil   1316.323mil    872.006mil   1262.628mil    884.451mil  T        346.95 LTW-150TK      
+D4         CR3216-1206_LED   1316.586mil   1174.082mil   1316.586mil   1174.083mil   1262.849mil   1161.824mil  T         12.85 LTW-150TK      
+D3         CR3216-1206_LED   1185.826mil   1446.392mil   1185.825mil   1446.392mil    1142.72mil   1412.042mil  T         38.55 LTW-150TK      
+D2         CR3216-1206_LED     949.91mil   1635.057mil     949.91mil   1635.058mil    925.964mil   1585.413mil  T         64.25 LTW-150TK      
+D1         CR3216-1206_LED    654.331mil   1702.755mil    654.331mil   1702.755mil    654.331mil   1647.637mil  T         90.00 LTW-150TK      
+SW1        EVQ-Q2             654.331mil   1023.622mil    654.331mil   1023.622mil    520.472mil    944.882mil  T        360.00 EVQ-Q2Y03W     
+

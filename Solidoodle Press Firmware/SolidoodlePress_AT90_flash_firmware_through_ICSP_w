@@ -1,0 +1,18 @@
+@echo off
+echo Connect USBtiny to board
+
+:UploadFirmware
+avrdude -D -c usbtiny -p at90usb1286 -e
+avrdude -c usbtiny -p at90usb1286 -U lfuse:w:0xde:m -U hfuse:w:0xdb:m -U efuse:w:0xf0:m
+avrdude -v -c usbtiny -p at90usb1286 -U flash:w:BootloaderHID.hex:i
+avrdude -D -c usbtiny -p at90usb1286 -U flash:w:SolidoodlePress_03242015.cpp.hex:i
+echo okay to disconnect
+pause
+
+call:UploadFirmware
+
+
+
+
+
+
